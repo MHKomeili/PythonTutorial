@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "0dcd8047054302ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6dbb6ad349c756",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Functions.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e28dab51912210c",
+    "type": "split",
+    "children": [
+      {
+        "id": "846a4ecc1a08e8f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "660c3027a69ceefa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "647a11cf0488951a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218
+  },
+  "right": {
+    "id": "90a73883eb66186a",
+    "type": "split",
+    "children": [
+      {
+        "id": "039b8380bba0d986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2a4fb72f00b2fe4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4c6dbb6ad349c756",
+  "lastOpenFiles": [
+    "Functions.md",
+    "List.md",
+    "Collections.md",
+    "Comprehensions.md",
+    "search.md",
+    "mutability.md",
+    "math library.md",
+    "map.md",
+    "loops.md",
+    "libraries.md"
+  ]
+}
